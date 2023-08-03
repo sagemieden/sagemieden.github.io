@@ -1,1 +1,1 @@
-# sagemieden.github.io
+theme: minima
